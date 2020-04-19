@@ -1,0 +1,15 @@
+Index	GEO id	platform	Title	Characteristic	Sample size	Source
+1	GSE30219	Affymetrix Human Genome U133	gene expression in lung cancer identifies a group of metastatic-prone tumors	"survival,relapes"	307	23698379
+2	GSE31210	Affymetrix Human Genome U133	Gene expression data for pathological stage I-II lung adenocarcinomas	"survival,relapes"	246	22080568 23028479
+3	GSE41271	GPL6884:Illumina HumanWG-6 v3.0	Expression profiling of 275 lung cancer specimens	"survival,relapes,stage"	275	23449933 24850841 27354471 27252415
+4	GSE50081	Affymetrix Human Genome U133	"Validation of a histology-independent prognostic gene signature for early stage, non-small cell lung cancer including stage IA patients"	"survival,relapes,stage"	181	24305008
+5	GSE13213	Agilent	Relapse-related molecular signature in lung adenocarcinomas identifies patients with dismal prognosis	"survival, relapse"	117	19414676
+6	GSE26939	Agilent	Human lung adenocarcinoma mRNA expression and gene mutations.	smoking	116	22590557
+7	GSE83227	 Affymetrix Human Genome U95 	caArray_meyer-00191: Classification of human lung carcinomas by mRNA expression profiling reveals distinct adenocarcinoma subclasses	lung cancer type	254	11707567
+8	GSE11969	Agilent	Expression Profile-Defined Classification of Lung Adenocarcinoma	"survival, relapse(with site)"	163	16549822 21465578
+9	GSE42127	GPL6884:Illumina HumanWG-6 v3.0	Expression data for non-small-cell lung cancer	"survival, stage"	176	23357979
+10	GSE68571	 Affymetrix Human Full Length HuGeneFL Array	caArray_beer-00153: Gene-expression profiles predict survival of patients with lung adenocarcinoma	"survival,stage,smoking"	96	12118244
+11	GSE19188	Affymetrix Human Genome U133	Expression data for early stage NSCLC	survival	156	20421987
+12	GSE37745	Affymetrix Human Genome U133	"Biomarker discovery in non-small cell lung cancer: integrating gene expression profiling, meta-analysis and tissue microarray validation"	"survival, relapse,stage,treatment"	196	23032747 29112949 26608184
+13	GSE10245	Affymetrix Human Genome U133	Gene expression differences between adenocarcinoma and squamous cell carcinoma in human NSCLC	lung cancer type	58	18486272
+14	GSE14814	Affymetrix Human Genome U133A	Prognostic and Predictive Gene Signature for Adjuvant Chemotherapy in Resected Non-Small-Cell Lung Cancer	"survival,stage,treatment"	133	20823422
